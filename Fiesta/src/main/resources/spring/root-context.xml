@@ -41,12 +41,11 @@
       <property name="driverClassName" value="oracle.jdbc.driver.OracleDriver" />
 
       <property name="url"
-      
       value="jdbc:oracle:thin:@(description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-seoul-1.oraclecloud.com))(connect_data=(service_name=g62495233566159_fiesta_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))" />
       
       <property name="username" value="ADMIN" />
       
-      <property name="password" value="snsFiesta1234!" />
+      <property name="password" value="Vldptmxk2468!!" />
       
    </bean>
     
